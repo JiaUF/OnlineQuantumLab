@@ -1,8 +1,5 @@
-# Interactive Quantum Computing Modules for Undergraduate Education
-
-Interactive Quantum Computing Modules for Undergraduate Education This repository hosts a collection of project-based learning modules designed to introduce undergraduate students to key concepts and hands-on experiences in quantum computing. 
-
-This repository hosts a curated collection of hands-on, project-based learning modules designed to introduce undergraduate and advanced pre-collegiate students to quantum computing. Developed and piloted at the University of Florida, the curriculum leverages **Jupyter notebooks** and **Qiskit** to support interactive coding, visualization, and exploration—requiring only basic linear algebra and introductory Python programming.
+# Online Quantum Computing Lab
+This repository hosts a curated collection of hands-on, project-based learning modules designed to introduce undergraduate students, advanced pre-collegiate learners, and individuals new to quantum computing—without prior experience in quantum mechanics—to its core concepts. Developed and piloted at the University of Florida, the curriculum leverages Jupyter notebooks and Qiskit to enable interactive coding, visualization, and exploration, requiring only basic linear algebra and introductory Python programming.
 
 ## Background and Vision
 

@@ -24,7 +24,7 @@ Launched in Spring 2023 and expanded in a 2025 summer pilot program, this initia
 - **Hydrogen Molecule Solver (VQE & QAOA)**  
   Use variational quantum algorithms to find molecular ground-state energies.
 
-- **Quantum Linear Systems & QML**  
+- **Quantum Algorithms for Linear Systems & Quantum Machine Learning**  
   Explore the HHL algorithm and its applications in quantum machine learning.
 
 ## Credits and Acknowledgments

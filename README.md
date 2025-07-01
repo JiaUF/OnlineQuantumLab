@@ -26,3 +26,10 @@ Launched in Spring 2023 and expanded in a 2025 summer pilot program, this initia
 
 - **Quantum Linear Systems & QML**  
   Explore the HHL algorithm and its applications in quantum machine learning.
+
+## Credits and Acknowledgments
+
+This repository and curriculum were developed by **Dr. Chunjing Jia**, Department of Physics, University of Florida.  
+The first three modules were co-developed and refined with valuable input from **Dr. Yuxuan Wang**, whose insights helped shape the instructional design.
+
+We gratefully acknowledge all student and faculty participants in the pilot programs for their feedback, engagement, and enthusiasm.

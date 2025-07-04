@@ -10,7 +10,7 @@ Launched in Spring 2023 and expanded in a 2025 summer pilot program, this initia
 - **Quantum Tic-Tac-Toe**  
   Explore quantum superposition, entanglement, and measurement through gameplay. No prior background required.
 
-- **Bloch Sphere & Quantum Gate Simulator**  
+- [**Bloch Sphere & Quantum Gate Simulator**](QuantumGateVisualization.ipynb) 
   Visualize and manipulate qubit states and quantum gates. Built using Qiskit, with interactive coding in Jupyter.
 
 - **BB84 Quantum Cryptography**  

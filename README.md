@@ -14,7 +14,7 @@ Launched in Spring 2023 and expanded in a 2025 summer pilot program, this initia
   Visualize and manipulate qubit states and quantum gates. Built using Qiskit, with interactive coding in Jupyter.
 
 - [**BB84 Quantum Cryptography**](BB84_QKD.ipynb)  
-  BB84 is the first and probably the most famous quantum key distribution (QKD) protocal. It allows two parties—traditionally named Alice and Bob—to generate a shared, secret cryptographic key, with the unique property that any eavesdropping attempt by a third party (Eve) can be detected. In this notebook, we will walk through the steps of the BB84 protocol using Python and Qiskit to simulate the process and visualize how secure quantum communication is established.
+  BB84 is the first and probably the most famous quantum key distribution (QKD) protocal. It allows two parties to generate a shared, secret cryptographic key, with the unique property that any eavesdropping attempt by a third party can be detected. In this notebook, we will walk through the steps of the BB84 protocol using Python and Qiskit to simulate the process and visualize how secure quantum communication is established.
 
 ## Upcoming Modules (In Development)
 

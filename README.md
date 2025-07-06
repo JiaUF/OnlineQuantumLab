@@ -13,7 +13,7 @@ Launched in Spring 2023 and expanded in a 2025 summer pilot program, this initia
 - [**Bloch Sphere & Quantum Gate Simulator**](QuantumGateVisualization.ipynb) 
   Visualize and manipulate qubit states and quantum gates. Built using Qiskit, with interactive coding in Jupyter.
 
-- **BB84 Quantum Cryptography**  
+- [**BB84 Quantum Cryptography**](BB84_QKD.ipynb)  
   Implement quantum key distribution and understand quantum-safe communication protocols.
 
 ## Upcoming Modules (In Development)

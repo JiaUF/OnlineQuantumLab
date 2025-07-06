@@ -18,7 +18,7 @@ Launched in Spring 2023 and expanded in a 2025 summer pilot program, this initia
 
 ## Upcoming Modules (In Development)
 
-- **Deutsch–Jozsa Algorithm**  
+- [**Deutsch–Jozsa Algorithm**](Deutsch_Jozsa_Algorithm.ipynb) 
   Learn quantum speedup through one of the earliest quantum algorithms.
 
 - **Hydrogen Molecule Solver (VQE & QAOA)**  

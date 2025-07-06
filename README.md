@@ -29,7 +29,7 @@ Launched in Spring 2023 and expanded in a 2025 summer pilot program, this initia
 
 ## References:
 
-- [**Quantum Computing for the Quantum Curious, by Ciaran Hughes, Joshua Isaacson, Anastasia Perry, Ranbel F. Sun and Jessica Turner**](https://link.springer.com/book/10.1007/978-3-030-61601-4?source=shoppingads&locale=en-us&gad_source=1&gad_campaignid=21715590852&gbraid=0AAAAABhG7hV4BpFsOJ4JiSCbEn2XhEzrM&gclid=Cj0KCQjwvajDBhCNARIsAEE29Wqk9qTQr3Eydx36pgxlK98n31PO6gTUcvU6TdCJRvgyAnt-Wu4RRfsaAhPTEALw_wcB)
+- [**Quantum Computing for the Quantum Curious](https://link.springer.com/book/10.1007/978-3-030-61601-4?source=shoppingads&locale=en-us&gad_source=1&gad_campaignid=21715590852&gbraid=0AAAAABhG7hV4BpFsOJ4JiSCbEn2XhEzrM&gclid=Cj0KCQjwvajDBhCNARIsAEE29Wqk9qTQr3Eydx36pgxlK98n31PO6gTUcvU6TdCJRvgyAnt-Wu4RRfsaAhPTEALw_wcB), by Ciaran Hughes, Joshua Isaacson, Anastasia Perry, Ranbel F. Sun and Jessica Turner**
   This is an excellent beginner-friendly introduction to quantum computing, designed for readers with no prior background in quantum mechanics—including pre-collegiate students.
   
 - **Quantum Computing and Quantum Information, by Michael Nielsen and Issac Chuang**

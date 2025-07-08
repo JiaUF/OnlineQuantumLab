@@ -5,7 +5,7 @@ This repository hosts a curated collection of hands-on, project-based learning m
 
 Launched in 2025 summer pilot program, this initiative combines **flipped classroom**, **gamified learning**, and **project-based learning (PBL)** strategies to make quantum computing accessible and engaging across diverse STEM backgrounds. The program has successfully included high school students and university faculty with no prior quantum experience.
 
-## Flagship Projects (Piloted)
+## Piloted Projects 
 
 - **Quantum Tic-Tac-Toe**  
   Explore quantum superposition, entanglement, and measurement through gameplay. No prior background required.

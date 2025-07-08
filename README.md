@@ -16,10 +16,10 @@ Launched in 2025 summer pilot program, this initiative combines **flipped classr
 - [**BB84 Quantum Cryptography**](BB84_QKD.ipynb)  
   BB84 is the first and probably the most famous quantum key distribution (QKD) protocal. It allows two parties to generate a shared, secret cryptographic key, with the unique property that any eavesdropping attempt by a third party can be detected. In this notebook, we will walk through the steps of the BB84 protocol using Python and Qiskit to simulate the process and visualize how secure quantum communication is established.
 
-## Upcoming Modules (In Development)
-
 - [**Deutsch–Jozsa Algorithm**](Deutsch_Jozsa_Algorithm.ipynb) 
   Learn quantum speedup through one of the earliest quantum algorithms.
+  
+## Upcoming Modules (In Development)
 
 - **Hydrogen Molecule Solver (VQE & QAOA)**  
   Use variational quantum algorithms to find molecular ground-state energies.

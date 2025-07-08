@@ -3,7 +3,7 @@ This repository hosts a curated collection of hands-on, project-based learning m
 
 ## Background and Vision
 
-Launched in Spring 2023 and expanded in a 2025 summer pilot program, this initiative combines **flipped classroom**, **gamified learning**, and **project-based learning (PBL)** strategies to make quantum computing accessible and engaging across diverse STEM backgrounds. The program has successfully included high school students and university faculty with no prior quantum experience.
+Launched in 2025 summer pilot program, this initiative combines **flipped classroom**, **gamified learning**, and **project-based learning (PBL)** strategies to make quantum computing accessible and engaging across diverse STEM backgrounds. The program has successfully included high school students and university faculty with no prior quantum experience.
 
 ## Flagship Projects (Piloted)
 

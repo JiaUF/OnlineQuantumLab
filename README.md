@@ -7,7 +7,7 @@ Launched in 2025 summer pilot program, this initiative combines **flipped classr
 
 ## Piloted Projects 
 
-- [**Quantum Tic-Tac-Toe**](quantum_tic_tac_toe.ipynb)  
+- [**Quantum Tic-Tac-Toe**](Quantum_tic_tac_toe.ipynb)  
   Explore quantum superposition, entanglement, and measurement through gameplay. No prior background required.
 
 - [**Bloch Sphere & Quantum Gate Simulator**](QuantumGateVisualization.ipynb) 
